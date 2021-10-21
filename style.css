@@ -1,0 +1,11 @@
+body {
+  
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
